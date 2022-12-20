@@ -7,4 +7,17 @@
         box-shadow: 8px 10px 5px -1px rgba(0, 0, 0, 0.41);
         border-radius: 20px;
     }
+    .btns .link-1{
+        width: 73%;
+    }
+    .btns .link-2{
+        width: 73%;
+    }
+    .btns .link-3{
+        width: 73%;
+    }
+    .btns .link-4{
+        width: 73%;
+    }
+
 }
