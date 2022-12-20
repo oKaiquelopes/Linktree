@@ -19,5 +19,17 @@
     .btns .link-4{
         width: 73%;
     }
+    .btns .link-1:hover{
+        background-color: #13A9EA;
+    }
+    .btns .link-2:hover{
+        background-color: #13A9EA;
+    }
+    .btns .link-3:hover{
+        background-color: #13A9EA;
+    }
+    .btns .link-4:hover{
+        background-color: #13A9EA;
+    }
 
 }
