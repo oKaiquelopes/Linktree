@@ -1,9 +1,9 @@
 @media screen and (max-width: 768px) {
     .card{
         height: 500px;
-        width: 75%;
-        margin-top: 30%;
-        background: #F5F5F5;
+        width: 70%;
+        margin-top: 20%;
+        background: #f4f3eed5;
         box-shadow: 8px 10px 5px -1px rgba(0, 0, 0, 0.41);
         border-radius: 20px;
     }
@@ -31,5 +31,10 @@
     .btns .link-4:hover{
         background-color: #13A9EA;
     }
-
+    hr{
+        width: 50%;
+        height: 0.1%;
+        background-color: #131E2F;
+        border: none;
+    }
 }
